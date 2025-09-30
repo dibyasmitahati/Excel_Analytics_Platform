@@ -23,16 +23,6 @@ The app automates data cleaning, provides statistical summaries, and generates i
 
 ---
 
-## 📂 Project Structure
-excel_analytics_platform/
-│── frontend/ # UI components
-│── backend/ # Server-side logic
-│── public/ # Static files
-│── package.json # Project metadata & dependencies
-│── README.md # Project documentation
-
----
-
 ## ⚙️ Installation & Setup
 
 1. **Clone the repository**
